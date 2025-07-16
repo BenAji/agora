@@ -47,7 +47,8 @@ The frontend will be running on `http://localhost:3000`
 
 ### Features Implemented
 
-#### ✅ Phase 1: Project Setup
+#### ✅ Phase 1: Project Setups
+
 - React frontend with TailwindCSS
 - Express backend with PostgreSQL
 - Docker containerization for database
